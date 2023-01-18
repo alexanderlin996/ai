@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>dining_out_public_roads_avenue_multiplex_train_p_day_202020304_17635.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>1407</xmin>
+      <ymin>452</ymin>
+      <xmax>1464</xmax>
+      <ymax>497</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>1783</xmin>
+      <ymin>880</ymin>
+      <xmax>1811</xmax>
+      <ymax>917</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>1169</xmin>
+      <ymin>479</ymin>
+      <xmax>1301</xmax>
+      <ymax>522</ymax>
+    </bndbox>
+  </object>
+</annotation>
